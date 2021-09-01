@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+I've taught math for 7 years! I also coach track & XC. I'm passionate about statistics, & I'm excited to use it in my future teaching & to study the things I love!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm interested in learning more about the different career paths a masters in statistics will take me so if you have any suggestions, send them my way!
 
-### Contact me
+### Contact Me
 
-[email@domain.com](mailto:email@domain.com)
+[jlwarre5@ncsu.edu](mailto:jlwarre5@ncsu.edu)
