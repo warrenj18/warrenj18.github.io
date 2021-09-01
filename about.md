@@ -3,7 +3,9 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-
+```{r figurename, echo=FALSE, out.width = '90%'}
+knitr::include_graphics("Janel.JPG")
+```
 I've taught math for 7 years! I also coach track & XC. I'm passionate about statistics, & I'm excited to use it in my future teaching & to study the things I love!
 
 ### More Information
